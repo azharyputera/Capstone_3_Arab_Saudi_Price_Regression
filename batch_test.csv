@@ -1,0 +1,904 @@
+Type,Region,Make,Gear_Type,Origin,Options,Year,Engine_Size,Mileage,Negotiable,Country_make,Condition
+3,Al-Medina,Mazda,Automatic,Saudi,Standard,2018,1.6,99000,False,Japan,overly used
+Accent,Jeddah,Hyundai,Automatic,Saudi,Standard,2019,1.4,92000,False,South Korea,overly used
+Corolla,Riyadh,Toyota,Automatic,Saudi,Standard,2018,1.6,103966,False,Japan,overly used
+Azera,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2018,3.5,72900,False,South Korea,normally used
+Charger,Dammam,Dodge,Automatic,Saudi,Full,2019,3.6,48000,False,USA,normally used
+Pick up,Al-Baha,Zhengzhou,Manual,Saudi,Full,2016,2.4,128,False,China,seldomly used
+Previa,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2015,2.4,156000,False,Japan,overly used
+Malibu,Dammam,Chevrolet,Automatic,Saudi,Full,2013,3.6,177000,False,USA,normally used
+Patrol,Jazan,Nissan,Automatic,Saudi,Semi Full,2014,5.6,190000,False,Japan,overly used
+Range Rover,Riyadh,Land Rover,Automatic,Other,Full,2019,5.0,36000,False,UK,normally used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2011,5.3,206000,False,USA,normally used
+Pajero,Dammam,Mitsubishi,Automatic,Saudi,Full,2017,3.8,69000,False,Japan,normally used
+Accent,Jeddah,Hyundai,Automatic,Saudi,Full,2017,1.6,140000,False,South Korea,overly used
+CT-S,Al-Medina,Cadillac,Automatic,Saudi,Semi Full,2013,3.8,137000,False,USA,normally used
+C,Riyadh,Mercedes,Automatic,Gulf Arabic,Semi Full,2015,2.0,173000,False,Germany,overly used
+Mustang,Riyadh,Ford,Automatic,Saudi,Semi Full,2015,2.3,157000,False,USA,overly used
+Elantra,Jeddah,Hyundai,Automatic,Saudi,Full,2017,2.0,140000,False,South Korea,overly used
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2019,4.0,50000,False,Japan,normally used
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2014,5.4,150000,False,USA,normally used
+H1,Riyadh,Hyundai,Automatic,Saudi,Standard,2010,1.4,147000,False,South Korea,normally used
+Tahoe,Riyadh,Chevrolet,Automatic,Gulf Arabic,Full,2017,5.3,73000,False,USA,normally used
+Land Cruiser Pickup,Qassim,Toyota,Manual,Gulf Arabic,Standard,2017,4.0,25471,False,Japan,seldomly used
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2018,1.5,117081,False,Japan,overly used
+Accent,Al-Ahsa,Hyundai,Automatic,Saudi,Standard,2019,1.4,65392,False,South Korea,overly used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.4,58000,False,South Korea,normally used
+Optima,Riyadh,Kia,Automatic,Saudi,Semi Full,2015,2.4,173588,False,South Korea,overly used
+Mustang,Dammam,Ford,Automatic,Other,Full,2016,5.0,92000,False,USA,normally used
+Prestige,Riyadh,Genesis,Automatic,Saudi,Semi Full,2016,3.5,203000,False,South Korea,overly used
+Rush,Khobar,Toyota,Automatic,Saudi,Semi Full,2021,1.5,9000,False,Japan,seldomly used
+C,Dammam,Mercedes,Automatic,Other,Full,2019,2.0,15000,False,Germany,seldomly used
+Seven,Riyadh,Changan,Automatic,Saudi,Standard,2020,1.4,41600,False,China,overly used
+A,Riyadh,Mercedes,Automatic,Gulf Arabic,Standard,2020,2.0,12500,False,Germany,seldomly used
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2018,1.6,45370,False,Japan,normally used
+Patrol,Najran,Nissan,Automatic,Gulf Arabic,Semi Full,2019,4.0,72000,False,Japan,overly used
+CX5,Riyadh,Mazda,Automatic,Gulf Arabic,Standard,2014,2.5,110000,False,Japan,normally used
+Land Cruiser 70,Dammam,Toyota,Manual,Saudi,Semi Full,2014,4.0,70000,False,Japan,seldomly used
+Sportage,Jeddah,Kia,Automatic,Saudi,Standard,2019,1.6,46000,False,South Korea,normally used
+Sportage,Jubail,Kia,Automatic,Saudi,Standard,2016,2.4,109000,False,South Korea,normally used
+C,Riyadh,Mercedes,Automatic,Other,Full,2016,2.0,120000,False,Germany,overly used
+Charger,Riyadh,Dodge,Automatic,Saudi,Standard,2017,3.6,122178,False,USA,overly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Full,2017,2.4,88718,False,South Korea,normally used
+X,Riyadh,BMW,Automatic,Other,Full,2011,3.0,290,False,Germany,seldomly used
+Cayman,Dammam,Porsche,Automatic,Saudi,Full,2015,3.0,120000,False,Germany,normally used
+Navara,Aseer,Nissan,Automatic,Gulf Arabic,Full,2014,2.5,167,False,Japan,seldomly used
+Prado,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2019,4.0,82000,False,Japan,overly used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,1.4,102109,False,South Korea,overly used
+Cerato,Jeddah,Kia,Automatic,Saudi,Semi Full,2016,1.6,112000,False,South Korea,normally used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,1.4,76000,False,South Korea,normally used
+Rav4,Riyadh,Toyota,Automatic,Saudi,Standard,2018,2.5,173000,False,Japan,extremely used
+Accord,Riyadh,Honda,Automatic,Saudi,Semi Full,2019,1.5,49000,False,Japan,normally used
+Rav4,Jeddah,Toyota,Automatic,Saudi,Full,2017,2.5,174000,False,Japan,overly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,2.4,166000,False,South Korea,overly used
+G80,Riyadh,Genesis,Automatic,Gulf Arabic,Full,2017,3.8,66000,False,South Korea,normally used
+Explorer,Al-Ahsa,Ford,Automatic,Other,Standard,2017,1.4,187000,False,USA,overly used
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2017,1.6,110000,False,Japan,overly used
+Spark,Riyadh,Chevrolet,Automatic,Saudi,Standard,2019,1.4,63744,False,USA,overly used
+X,Riyadh,BMW,Automatic,Saudi,Full,2015,3.0,98000,False,Germany,normally used
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2019,2.0,41912,False,South Korea,normally used
+ASX,Riyadh,Mitsubishi,Automatic,Saudi,Full,2020,2.0,22000,False,Japan,normally used
+Cadenza,Riyadh,Kia,Automatic,Saudi,Standard,2019,3.3,73000,False,South Korea,overly used
+Hilux,Riyadh,Toyota,Manual,Saudi,Standard,2018,2.7,16700,False,Japan,seldomly used
+E,Riyadh,Mercedes,Automatic,Gulf Arabic,Full,2016,2.0,120000,False,Germany,overly used
+Land Cruiser,Tabouk,Toyota,Automatic,Gulf Arabic,Full,2013,4.6,186,False,Japan,seldomly used
+Impala,Riyadh,Chevrolet,Automatic,Saudi,Standard,2019,3.6,178000,False,USA,extremely used
+Camry,Riyadh,Toyota,Automatic,Saudi,Standard,2017,2.4,209000,False,Japan,extremely used
+Land Cruiser,Dammam,Toyota,Automatic,Saudi,Full,2021,4.6,20000,False,Japan,overly used
+Cerato,Arar,Kia,Automatic,Saudi,Standard,2015,1.6,120000,False,South Korea,normally used
+Optima,Dammam,Kia,Automatic,Saudi,Semi Full,2014,2.0,241000,False,South Korea,overly used
+Malibu,Qassim,Chevrolet,Automatic,Saudi,Standard,2018,2.0,135000,False,USA,overly used
+K5,Al-Ahsa,Kia,Automatic,Saudi,Semi Full,2021,2.5,12000,False,South Korea,normally used
+Bus Urvan,Dammam,Nissan,Manual,Saudi,Standard,2016,2.5,106000,False,Japan,normally used
+C,Dammam,Mercedes,Automatic,Saudi,Full,2018,3.0,44000,False,Germany,normally used
+Fusion,Riyadh,Ford,Automatic,Saudi,Standard,2016,2.5,107590,False,USA,normally used
+Altima,Riyadh,Nissan,Automatic,Gulf Arabic,Semi Full,2018,2.5,48000,False,Japan,normally used
+Challenger,Jeddah,Dodge,Automatic,Saudi,Semi Full,2015,3.6,260,False,USA,seldomly used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,1.4,69000,False,South Korea,normally used
+Expedition,Dammam,Ford,Automatic,Saudi,Semi Full,2013,5.4,94000,False,USA,normally used
+Elantra,Al-Ahsa,Hyundai,Automatic,Gulf Arabic,Full,2017,1.6,136000,False,South Korea,overly used
+GLC,Dammam,Mercedes,Automatic,Other,Full,2017,2.0,92000,False,Germany,normally used
+Cerato,Riyadh,Kia,Automatic,Saudi,Standard,2017,1.6,97000,False,South Korea,normally used
+Expedition,Riyadh,Ford,Automatic,Saudi,Standard,2017,3.5,123000,False,USA,overly used
+IS,Dammam,Lexus,Automatic,Other,Full,2016,3.5,96000,False,Japan,normally used
+ES,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2017,3.5,50000,False,Japan,normally used
+Pajero,Qassim,Mitsubishi,Automatic,Other,Full,2014,3.5,200000,False,Japan,overly used
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Full,2020,2.5,3000,False,South Korea,seldomly used
+Sierra,Qassim,GMC,Automatic,Saudi,Semi Full,2020,5.3,91000,False,USA,extremely used
+A6,Jeddah,Audi,Automatic,Saudi,Full,2016,3.0,77000,False,Germany,normally used
+Accord,Jeddah,Honda,Automatic,Saudi,Semi Full,2018,1.6,32000,False,Japan,seldomly used
+Taurus,Dammam,Ford,Automatic,Saudi,Standard,2017,3.5,131408,False,USA,overly used
+Accord,Al-Medina,Honda,Automatic,Gulf Arabic,Semi Full,2015,2.4,124040,False,Japan,normally used
+Yukon,Riyadh,GMC,Automatic,Other,Full,2016,6.2,126000,False,USA,overly used
+Impala,Dammam,Chevrolet,Automatic,Saudi,Standard,2016,3.5,91000,False,USA,normally used
+Accord,Riyadh,Honda,Automatic,Saudi,Standard,2017,1.0,63000,False,Japan,normally used
+Montero,Riyadh,Mitsubishi,Automatic,Saudi,Full,2017,3.3,199000,False,Japan,overly used
+Tucson,Jeddah,Hyundai,Automatic,Saudi,Standard,2017,2.0,124000,False,South Korea,overly used
+Accord,Riyadh,Honda,Automatic,Saudi,Full,2018,2.0,105000,False,Japan,overly used
+Avalon,Dammam,Toyota,Automatic,Saudi,Standard,2015,3.5,120000,False,Japan,normally used
+Edge,Jeddah,Ford,Automatic,Saudi,Standard,2017,3.5,89000,False,USA,normally used
+Range Rover,Jeddah,Land Rover,Automatic,Saudi,Full,2009,5.0,195000,False,UK,normally used
+E,Dammam,Mercedes,Automatic,Other,Full,2017,2.0,66000,False,Germany,normally used
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2012,5.4,177078,False,USA,normally used
+Charger,Al-Medina,Dodge,Automatic,Saudi,Full,2013,5.7,198000,False,USA,overly used
+Cadenza,Riyadh,Kia,Automatic,Saudi,Standard,2017,3.0,175000,False,South Korea,overly used
+IS,Jeddah,Lexus,Automatic,Saudi,Full,2018,3.5,54000,False,Japan,normally used
+Elantra,Dammam,Hyundai,Automatic,Saudi,Standard,2016,1.6,141000,False,South Korea,overly used
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2011,4.6,79000,False,Japan,seldomly used
+Cadenza,Riyadh,Kia,Automatic,Saudi,Standard,2017,3.3,83000,False,South Korea,normally used
+Emgrand,Riyadh,Geely,Automatic,Saudi,Semi Full,2019,1.8,70000,False,China,overly used
+X,Dammam,BMW,Automatic,Gulf Arabic,Semi Full,2017,3.0,71000,False,Germany,normally used
+Land Cruiser,Dammam,Toyota,Automatic,Saudi,Full,2015,4.0,180000,False,Japan,overly used
+Taurus,Hail,Ford,Automatic,Saudi,Semi Full,2012,6.0,166000,False,USA,normally used
+Q5,Jeddah,Audi,Automatic,Saudi,Standard,2018,2.5,17000,False,Germany,seldomly used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2017,1.4,61000,False,South Korea,normally used
+Ciocca,Al-Ahsa,Toyota,Automatic,Saudi,Semi Full,2013,5.7,235000,False,Japan,overly used
+S,Jeddah,Mercedes,Automatic,Saudi,Full,2018,4.5,83000,False,Germany,overly used
+Maxima,Riyadh,Nissan,Automatic,Saudi,Full,2016,3.5,155000,False,Japan,overly used
+Prado,Jeddah,Toyota,Automatic,Saudi,Full,2016,4.0,143000,False,Japan,overly used
+X,Riyadh,BMW,Automatic,Gulf Arabic,Full,2016,3.0,130000,False,Germany,overly used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Full,2016,5.3,146000,False,USA,overly used
+B50,Jeddah,FAW,Automatic,Saudi,Full,2016,1.4,89000,False,China,normally used
+Land Cruiser,Qassim,Toyota,Automatic,Saudi,Full,2019,4.5,82808,False,Japan,overly used
+Camry,Riyadh,Toyota,Automatic,Saudi,Standard,2012,2.4,217000,False,Japan,overly used
+Marquis,Jazan,Ford,Automatic,Other,Full,2009,4.6,274000,False,USA,overly used
+Duster,Riyadh,Renault,Automatic,Saudi,Standard,2018,2.0,164169,False,France,extremely used
+Tucson,Makkah,Hyundai,Automatic,Saudi,Semi Full,2013,2.0,213000,False,South Korea,overly used
+Accord,Riyadh,Honda,Automatic,Gulf Arabic,Standard,2016,2.4,90000,False,Japan,normally used
+Land Cruiser Pickup,Riyadh,Nissan,Automatic,Saudi,Full,2016,4.8,44000,False,Japan,seldomly used
+X,Riyadh,BMW,Automatic,Gulf Arabic,Full,2016,4.4,130341,False,Germany,overly used
+Navigator,Aseer,Lincoln,Automatic,Saudi,Full,2011,5.4,200000,False,USA,normally used
+Elantra,Dammam,Hyundai,Automatic,Saudi,Semi Full,2019,1.6,59700,False,South Korea,normally used
+F Type,Dammam,Jaguar,Automatic,Gulf Arabic,Full,2016,3.0,42000,False,UK,seldomly used
+H1,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,2.4,90706,False,South Korea,overly used
+ES,Riyadh,Lexus,Automatic,Other,Full,2017,3.5,34593,False,Japan,seldomly used
+C,Riyadh,Mercedes,Automatic,Other,Semi Full,2015,2.0,187000,False,Germany,overly used
+Jetta,Riyadh,Volkswagen,Automatic,Saudi,Full,2017,2.5,82000,False,Germany,normally used
+A8,Dammam,Audi,Automatic,Saudi,Full,2019,3.0,41000,False,Germany,normally used
+Accord,Riyadh,Honda,Automatic,Saudi,Semi Full,2017,2.5,173000,False,Japan,overly used
+Carnival,Jazan,Kia,Automatic,Saudi,Full,2016,3.3,21000,False,South Korea,seldomly used
+C300,Dammam,Chrysler,Automatic,Other,Full,2016,3.5,83000,False,USA,normally used
+Hilux,Jubail,Toyota,Manual,Saudi,Semi Full,2017,2.7,146000,False,Japan,overly used
+Land Cruiser,Dammam,Toyota,Automatic,Gulf Arabic,Full,2020,4.6,19400,False,Japan,seldomly used
+3,Jeddah,Mazda,Automatic,Saudi,Full,2015,2.0,74000,False,Japan,normally used
+Azera,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,3.0,147000,False,South Korea,overly used
+Cadenza,Yanbu,Kia,Automatic,Saudi,Semi Full,2020,3.3,17000,False,South Korea,seldomly used
+LX,Jeddah,Lexus,Automatic,Saudi,Full,2018,5.7,90000,False,Japan,overly used
+FJ,Dammam,Toyota,Automatic,Saudi,Full,2016,4.0,208000,False,Japan,overly used
+Accent,Al-Jouf,Hyundai,Automatic,Saudi,Semi Full,2018,1.4,114969,False,South Korea,overly used
+Taurus,Riyadh,Ford,Automatic,Other,Full,2016,3.5,105,False,USA,seldomly used
+6,Riyadh,Mazda,Automatic,Saudi,Standard,2020,2.5,78000,False,Japan,overly used
+Camry,Riyadh,Toyota,Automatic,Saudi,Semi Full,2016,2.4,268000,False,Japan,extremely used
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2016,4.6,42000,False,Japan,seldomly used
+3,Jeddah,Mazda,Automatic,Saudi,Standard,2018,1.6,105000,False,Japan,overly used
+C300,Riyadh,Chrysler,Automatic,Saudi,Full,2017,5.7,130000,False,USA,overly used
+Charger,Khobar,Dodge,Automatic,Saudi,Full,2019,3.6,78000,False,USA,overly used
+C300,Dammam,Chrysler,Automatic,Other,Full,2013,5.7,178000,False,USA,normally used
+Hiace,Riyadh,Toyota,Manual,Saudi,Semi Full,2014,2.0,188000,False,Japan,overly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2016,2.4,210000,False,South Korea,overly used
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Full,2011,6.0,200000,False,USA,normally used
+LX,Abha,Lexus,Automatic,Saudi,Full,2014,5.7,342,False,Japan,seldomly used
+Yaris,Riyadh,Toyota,Automatic,Saudi,Standard,2018,1.5,62000,False,Japan,normally used
+Prestige,Riyadh,Genesis,Automatic,Saudi,Standard,2016,3.8,131000,False,South Korea,overly used
+Taurus,Riyadh,Ford,Automatic,Saudi,Semi Full,2017,4.0,89000,False,USA,normally used
+Flex,Dammam,Ford,Automatic,Saudi,Semi Full,2014,3.5,180000,False,USA,overly used
+Carnival,Jeddah,Kia,Automatic,Saudi,Semi Full,2016,3.3,180,False,South Korea,seldomly used
+Taurus,Dammam,Ford,Automatic,Other,Full,2016,3.5,72000,False,USA,normally used
+CX9,Qassim,Mazda,Automatic,Saudi,Full,2015,2.5,62000,False,Japan,seldomly used
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2015,5.7,143203,False,Japan,overly used
+Accord,Riyadh,Honda,Automatic,Gulf Arabic,Semi Full,2016,2.4,106000,False,Japan,normally used
+Pajero,Dammam,Mitsubishi,Automatic,Saudi,Full,2017,3.5,81000,False,Japan,normally used
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2018,1.5,79968,False,Japan,normally used
+Elantra,Al-Ahsa,Hyundai,Automatic,Saudi,Full,2015,2.0,250000,False,South Korea,overly used
+GL,Makkah,Mercedes,Automatic,Saudi,Full,2013,5.0,147000,False,Germany,normally used
+Senta fe,Dammam,Hyundai,Automatic,Saudi,Semi Full,2016,3.3,149000,False,South Korea,overly used
+Elantra,Dammam,Hyundai,Automatic,Saudi,Standard,2016,1.6,172600,False,South Korea,overly used
+Yukon,Riyadh,GMC,Automatic,Saudi,Semi Full,2018,6.0,168000,False,USA,extremely used
+3,Al-Medina,Mazda,Automatic,Saudi,Standard,2018,2.0,47000,False,Japan,normally used
+H6,Riyadh,HAVAL,Automatic,Saudi,Full,2020,1.5,9000,False,China,seldomly used
+CX3,Abha,Mazda,Automatic,Saudi,Semi Full,2019,2.0,25000,False,Japan,seldomly used
+Land Cruiser,Jeddah,Toyota,Automatic,Gulf Arabic,Full,2017,5.7,120000,False,Japan,overly used
+Countryman,Jeddah,MINI,Manual,Other,Full,2017,1.4,100000,False,UK,overly used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2017,1.4,102000,False,South Korea,overly used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2019,1.4,72000,False,South Korea,overly used
+Corolla,Riyadh,Toyota,Automatic,Saudi,Standard,2016,1.6,270000,False,Japan,extremely used
+Land Cruiser,Dammam,Toyota,Automatic,Saudi,Full,2019,5.7,6000,False,Japan,seldomly used
+Prado,Riyadh,Toyota,Automatic,Saudi,Semi Full,2016,4.0,67000,False,Japan,normally used
+A6,Jeddah,Audi,Automatic,Saudi,Full,2014,3.5,79000,False,Germany,seldomly used
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2013,3.0,48000,False,UK,seldomly used
+Cerato,Riyadh,Kia,Automatic,Saudi,Standard,2020,1.6,36000,False,South Korea,normally used
+Innova,Riyadh,Toyota,Automatic,Saudi,Full,2013,2.7,201000,False,Japan,overly used
+Sunny,Al-Medina,Nissan,Automatic,Saudi,Standard,2019,1.5,98000,False,Japan,overly used
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2021,4.6,3549,False,Japan,seldomly used
+DB9,Dammam,Aston Martin,Automatic,Saudi,Full,2010,6.0,71000,False,UK,seldomly used
+Elantra,Riyadh,Hyundai,Automatic,Gulf Arabic,Full,2015,2.0,140,False,South Korea,seldomly used
+GS3,Riyadh,GAC,Automatic,Gulf Arabic,Semi Full,2021,1.3,9000,False,China,seldomly used
+Fusion,Riyadh,Ford,Automatic,Gulf Arabic,Standard,2016,2.5,81000,False,USA,normally used
+Traverse,Al-Medina,Chevrolet,Automatic,Saudi,Standard,2020,3.6,22800,False,USA,normally used
+Altima,Jeddah,Nissan,Automatic,Saudi,Semi Full,2018,2.5,77000,False,Japan,normally used
+Navara,Abha,Nissan,Manual,Saudi,Standard,2015,2.5,119000,False,Japan,normally used
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2019,4.0,62000,False,Japan,overly used
+Taurus,Jeddah,Ford,Automatic,Saudi,Full,2015,6.3,113220,False,USA,normally used
+Taurus,Dammam,Ford,Automatic,Other,Semi Full,2017,3.5,61000,False,USA,normally used
+Eado,Dammam,Changan,Automatic,Saudi,Full,2020,1.6,9061,False,China,seldomly used
+FJ,Dammam,Toyota,Automatic,Saudi,Semi Full,2017,4.0,127000,False,Japan,overly used
+Sierra,Riyadh,GMC,Automatic,Saudi,Semi Full,2018,5.3,181313,False,USA,extremely used
+Victoria,Dammam,Ford,Automatic,Other,Full,2011,4.6,129000,False,USA,normally used
+Patrol,Riyadh,Nissan,Automatic,Saudi,Full,2015,3.2,125000,False,Japan,normally used
+CX9,Dammam,Mazda,Automatic,Other,Full,2016,2.5,104000,False,Japan,normally used
+The 4,Jeddah,BMW,Automatic,Saudi,Full,2016,2.0,110000,False,Germany,normally used
+Civic,Jeddah,Honda,Automatic,Saudi,Standard,2017,1.5,200000,False,Japan,extremely used
+Datsun,Dammam,Nissan,Manual,Saudi,Semi Full,2016,2.4,39000,False,Japan,seldomly used
+Accord,Riyadh,Honda,Automatic,Gulf Arabic,Semi Full,2016,2.4,75000,False,Japan,normally used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,2.4,113057,False,South Korea,overly used
+Yaris,Jeddah,Toyota,Automatic,Saudi,Standard,2018,1.5,114000,False,Japan,overly used
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.6,106787,False,South Korea,overly used
+Victoria,Dammam,Ford,Automatic,Saudi,Semi Full,2015,4.6,130000,False,USA,normally used
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2016,2.0,117000,False,South Korea,normally used
+Megane,Jeddah,Renault,Automatic,Gulf Arabic,Standard,2020,1.6,6400,False,France,seldomly used
+Camry,Dammam,Toyota,Automatic,Gulf Arabic,Standard,2015,2.4,161000,False,Japan,overly used
+H1,Al-Medina,Hyundai,Automatic,Saudi,Full,2014,2.4,185,False,South Korea,seldomly used
+Tucson,Jeddah,Hyundai,Automatic,Saudi,Standard,2018,2.0,85000,False,South Korea,overly used
+Tahoe,Riyadh,Chevrolet,Automatic,Other,Full,2008,2.9,265000,False,USA,normally used
+Milan,Taef,Mercury,Automatic,Other,Full,2010,1.4,194,False,USA,seldomly used
+FJ,Qassim,Toyota,Automatic,Saudi,Full,2015,2.7,230000,False,Japan,overly used
+Senta fe,Jeddah,Hyundai,Automatic,Saudi,Semi Full,2015,3.3,120,False,South Korea,seldomly used
+Datsun,Jeddah,Nissan,Manual,Saudi,Standard,2015,2.4,77000,False,Japan,normally used
+Furniture,Dammam,Toyota,Automatic,Saudi,Semi Full,2020,4.0,55000,False,Japan,overly used
+Expedition,Al-Medina,Ford,Automatic,Saudi,Semi Full,2020,5.4,14000,False,USA,seldomly used
+Emgrand,Riyadh,Geely,Automatic,Saudi,Semi Full,2020,1.8,15000,False,China,seldomly used
+Furniture,Makkah,Toyota,Manual,Gulf Arabic,Semi Full,2010,2.7,200000,False,Japan,normally used
+Expedition,Jeddah,Ford,Automatic,Saudi,Semi Full,2010,5.4,230,False,USA,seldomly used
+Innova,Dammam,Toyota,Automatic,Saudi,Semi Full,2014,2.7,141000,False,Japan,normally used
+Altima,Riyadh,Nissan,Automatic,Saudi,Semi Full,2017,3.0,85000,False,Japan,normally used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2016,2.4,220000,False,South Korea,overly used
+Challenger,Dammam,Dodge,Automatic,Other,Full,2018,4.5,90000,False,USA,overly used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2014,5.3,160428,False,USA,overly used
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Standard,2013,6.0,70375,False,USA,seldomly used
+LX,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2020,5.7,19131,False,Japan,seldomly used
+Sierra,Dammam,GMC,Automatic,Saudi,Standard,2011,6.0,233000,False,USA,overly used
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,2.0,18197,False,South Korea,seldomly used
+Elantra,Jeddah,Hyundai,Automatic,Saudi,Full,2015,2.0,270000,False,South Korea,overly used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2017,1.4,71000,False,South Korea,normally used
+Victoria,Makkah,Ford,Automatic,Other,Semi Full,2011,4.6,150000,False,USA,normally used
+Land Cruiser,Taef,Toyota,Automatic,Saudi,Standard,2009,5.0,319,False,Japan,seldomly used
+3,Dammam,Mazda,Automatic,Gulf Arabic,Full,2017,1.6,92000,False,Japan,normally used
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2019,1.5,104688,False,Japan,overly used
+Pajero,Dammam,Mitsubishi,Automatic,Gulf Arabic,Semi Full,2017,3.5,129000,False,Japan,overly used
+Sierra,Riyadh,GMC,Automatic,Other,Semi Full,2011,5.3,258000,False,USA,overly used
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2017,1.6,98696,False,Japan,normally used
+Camry,Riyadh,Toyota,Automatic,Saudi,Standard,2016,2.5,183541,False,Japan,overly used
+H1,Dammam,Hyundai,Automatic,Saudi,Full,2018,2.4,74000,False,South Korea,normally used
+CS75,Riyadh,Changan,Automatic,Saudi,Full,2017,1.8,107000,False,China,overly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,2.5,71629,False,South Korea,normally used
+Avalon,Khobar,Toyota,Automatic,Saudi,Standard,2019,3.5,47000,False,Japan,normally used
+Elantra,Makkah,Hyundai,Automatic,Saudi,Full,2021,1.7,2600,False,South Korea,seldomly used
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2013,5.5,169000,False,USA,normally used
+Sportage,Al-Ahsa,Kia,Automatic,Saudi,Standard,2019,1.6,75000,False,South Korea,overly used
+Carnival,Riyadh,Kia,Automatic,Other,Standard,2014,6.0,259066,False,South Korea,overly used
+X-Trail,Riyadh,Nissan,Automatic,Saudi,Semi Full,2017,2.5,119000,False,Japan,overly used
+S,Dammam,Mercedes,Automatic,Saudi,Full,2013,3.0,110000,False,Germany,normally used
+Avalon,Qassim,Toyota,Automatic,Other,Semi Full,2016,3.5,110000,False,Japan,normally used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,1.4,108000,False,South Korea,overly used
+Charger,Dammam,Dodge,Automatic,Other,Semi Full,2018,3.6,89000,False,USA,overly used
+Altima,Qassim,Nissan,Automatic,Gulf Arabic,Full,2015,2.5,119500,False,Japan,normally used
+Soul,Riyadh,Kia,Automatic,Saudi,Semi Full,2014,1.6,157000,False,South Korea,normally used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,1.4,41000,False,South Korea,normally used
+Taurus,Dammam,Ford,Automatic,Other,Semi Full,2017,3.5,131000,False,USA,overly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2014,2.4,216000,False,South Korea,overly used
+VTC,Qassim,Nissan,Manual,Gulf Arabic,Standard,2014,4.8,244000,False,Japan,overly used
+Cerato,Dammam,Kia,Automatic,Gulf Arabic,Standard,2015,1.6,141000,False,South Korea,overly used
+6,Riyadh,Mazda,Automatic,Other,Semi Full,2016,2.5,216000,False,Japan,overly used
+Quattroporte,Dammam,Maserati,Automatic,Saudi,Full,2015,3.0,125000,False,Italy,normally used
+CX9,Dammam,Mazda,Automatic,Other,Full,2017,2.5,93000,False,Japan,normally used
+Impala,Al-Ahsa,Chevrolet,Automatic,Other,Full,2015,3.6,169000,False,USA,overly used
+Taurus,Dammam,Ford,Automatic,Saudi,Standard,2015,3.5,140000,False,USA,overly used
+Land Cruiser,Dammam,Toyota,Automatic,Saudi,Semi Full,2015,4.0,212000,False,Japan,overly used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2017,1.4,97700,False,South Korea,normally used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,1.4,90000,False,South Korea,overly used
+Altima,Qassim,Nissan,Automatic,Gulf Arabic,Semi Full,2015,2.5,94000,False,Japan,normally used
+Hiace,Dammam,Toyota,Manual,Saudi,Standard,2017,2.7,223000,False,Japan,extremely used
+Cerato,Jeddah,Kia,Automatic,Saudi,Semi Full,2016,1.6,150000,False,South Korea,overly used
+Prado,Riyadh,Toyota,Automatic,Saudi,Semi Full,2018,4.0,56000,False,Japan,normally used
+C,Riyadh,Mercedes,Automatic,Gulf Arabic,Semi Full,2015,2.0,73000,False,Germany,normally used
+Fusion,Jeddah,Ford,Automatic,Saudi,Standard,2014,1.6,167000,False,USA,overly used
+Camry,Qassim,Toyota,Automatic,Saudi,Full,2012,2.5,265000,False,Japan,overly used
+Dzire,Riyadh,Suzuki,Automatic,Gulf Arabic,Full,2020,1.2,8500,False,Japan,seldomly used
+Range Rover,Jeddah,Land Rover,Automatic,Gulf Arabic,Full,2016,3.5,122000,False,UK,overly used
+RX,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2017,3.5,59000,False,Japan,normally used
+ES,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2017,3.5,95000,False,Japan,normally used
+Range Rover,Riyadh,Land Rover,Automatic,Gulf Arabic,Full,2020,5.0,65000,False,UK,overly used
+Expedition,Dammam,Ford,Automatic,Saudi,Standard,2014,5.4,120000,False,USA,normally used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2019,1.4,115300,False,South Korea,overly used
+Avalon,Al-Jouf,Toyota,Automatic,Other,Full,2008,3.6,201,False,Japan,seldomly used
+S,Riyadh,Mercedes,Automatic,Gulf Arabic,Full,2019,3.0,6000,False,Germany,seldomly used
+Patrol,Riyadh,Nissan,Automatic,Saudi,Semi Full,2017,5.7,93000,False,Japan,normally used
+Juke,Riyadh,Nissan,Automatic,Saudi,Semi Full,2014,2.0,68000,False,Japan,seldomly used
+Senta fe,Riyadh,Hyundai,Automatic,Other,Semi Full,2016,3.3,50100,False,South Korea,seldomly used
+Impala,Dammam,Chevrolet,Automatic,Gulf Arabic,Standard,2018,3.6,112000,False,USA,overly used
+CL,Dammam,Mercedes,Automatic,Saudi,Full,2011,4.0,60000,False,Germany,seldomly used
+Wrangler,Riyadh,Jeep,Manual,Gulf Arabic,Standard,2018,3.6,40000,False,USA,normally used
+Rav4,Dammam,Toyota,Automatic,Saudi,Semi Full,2018,2.5,74000,False,Japan,normally used
+Hilux,Dammam,Toyota,Manual,Saudi,Standard,2017,2.7,73000,False,Japan,normally used
+A8,Dammam,Audi,Automatic,Gulf Arabic,Full,2018,3.0,68800,False,Germany,normally used
+Cerato,Jazan,Kia,Automatic,Saudi,Semi Full,2015,1.6,190000,False,South Korea,overly used
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Standard,2017,4.0,127453,False,Japan,overly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2018,2.5,84000,False,South Korea,overly used
+Dyna,Riyadh,Isuzu,Manual,Saudi,Standard,2016,1.5,420,False,Japan,seldomly used
+LX,Dammam,Lexus,Automatic,Saudi,Full,2020,5.7,30000,False,Japan,normally used
+Furniture,Riyadh,Toyota,Automatic,Other,Semi Full,2013,2.4,170000,False,Japan,normally used
+Sierra,Riyadh,GMC,Automatic,Saudi,Semi Full,2016,5.3,205000,False,USA,overly used
+Explorer,Riyadh,Ford,Automatic,Gulf Arabic,Full,2016,3.5,127000,False,USA,overly used
+E,Riyadh,Mercedes,Automatic,Saudi,Full,2016,2.0,94000,False,Germany,normally used
+C300,Riyadh,Chrysler,Automatic,Saudi,Full,2013,5.7,210,False,USA,seldomly used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.4,33613,False,South Korea,normally used
+Tucson,Dammam,Hyundai,Automatic,Saudi,Standard,2018,1.6,146000,False,South Korea,overly used
+Rio,Dammam,Kia,Automatic,Saudi,Standard,2019,1.4,72000,False,South Korea,overly used
+Grand Cherokee,Khobar,Jeep,Automatic,Saudi,Full,2020,3.6,52000,False,USA,overly used
+Yukon,Aseer,GMC,Automatic,Saudi,Full,2021,5.3,3700,False,USA,seldomly used
+Suburban,Riyadh,Chevrolet,Automatic,Saudi,Standard,2015,5.3,118000,False,USA,normally used
+Avalon,Dammam,Toyota,Automatic,Other,Semi Full,2015,3.5,80000,False,Japan,normally used
+Prado,Riyadh,Toyota,Automatic,Saudi,Semi Full,2017,2.7,175000,False,Japan,overly used
+Datsun,Riyadh,Nissan,Manual,Saudi,Semi Full,2015,2.5,174436,False,Japan,overly used
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2018,2.0,71000,False,USA,normally used
+Furniture,Riyadh,Toyota,Automatic,Saudi,Standard,2013,2.7,180000,False,Japan,overly used
+Innova,Tabouk,Toyota,Automatic,Saudi,Full,2017,2.7,139400,False,Japan,overly used
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2018,5.3,82011,False,USA,overly used
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2018,3.5,80000,False,Japan,overly used
+Navara,Hail,Nissan,Manual,Saudi,Standard,2016,2.5,185000,False,Japan,overly used
+Furniture,Riyadh,Toyota,Automatic,Saudi,Full,2019,3.5,40000,False,Japan,normally used
+Cerato,Al-Ahsa,Kia,Automatic,Saudi,Full,2015,2.0,104000,False,South Korea,normally used
+X-Trail,Riyadh,Nissan,Automatic,Saudi,Standard,2018,2.5,30000,False,Japan,seldomly used
+Avalon,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2015,3.5,100000,False,Japan,normally used
+3,Jeddah,Mazda,Automatic,Saudi,Standard,2018,1.6,90000,False,Japan,overly used
+CX9,Jeddah,Mazda,Automatic,Saudi,Full,2015,2.5,115000,False,Japan,normally used
+Optima,Dammam,Kia,Automatic,Saudi,Semi Full,2015,2.0,82900,False,South Korea,normally used
+Pajero,Riyadh,Mitsubishi,Automatic,Saudi,Full,2014,3.8,271943,False,Japan,overly used
+Yaris,Riyadh,Toyota,Automatic,Saudi,Semi Full,2019,1.6,18000,False,Japan,seldomly used
+500,Riyadh,Fiat,Automatic,Saudi,Full,2020,1.4,11500,False,Italy,seldomly used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2019,1.4,57000,False,South Korea,normally used
+Land Cruiser,Aseer,Toyota,Automatic,Saudi,Full,2013,4.6,101000,False,Japan,normally used
+Eado,Riyadh,Changan,Automatic,Saudi,Semi Full,2020,1.6,94182,False,China,extremely used
+Cadenza,Tabouk,Kia,Automatic,Gulf Arabic,Full,2016,3.3,100,False,South Korea,seldomly used
+Prado,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2017,4.0,39000,False,Japan,seldomly used
+Senta fe,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2018,3.3,31000,False,South Korea,seldomly used
+HRV,Riyadh,Honda,Automatic,Saudi,Standard,2021,1.8,6000,False,Japan,seldomly used
+Challenger,Jeddah,Dodge,Automatic,Saudi,Full,2013,6.4,249000,False,USA,overly used
+Echo Sport,Riyadh,Ford,Automatic,Saudi,Semi Full,2021,1.5,4600,False,USA,seldomly used
+Hilux,Jeddah,Toyota,Automatic,Saudi,Semi Full,2016,2.7,95000,False,Japan,normally used
+Patrol,Riyadh,Nissan,Automatic,Saudi,Full,2021,4.0,1800,False,Japan,seldomly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2018,2.4,55000,False,South Korea,normally used
+Other,Riyadh,Geely,Automatic,Saudi,Full,2017,1.4,45000,False,China,seldomly used
+Expedition,Al-Ahsa,Ford,Manual,Saudi,Full,2012,4.8,304,False,USA,seldomly used
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Standard,2017,2.4,173000,False,South Korea,overly used
+Veloster,Riyadh,Hyundai,Automatic,Saudi,Full,2013,2.0,248000,False,South Korea,overly used
+Yukon,Dammam,GMC,Automatic,Saudi,Standard,2018,5.3,196600,False,USA,extremely used
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2018,5.3,82469,False,USA,overly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2015,2.4,235575,False,South Korea,overly used
+Taurus,Dammam,Ford,Automatic,Saudi,Standard,2018,3.5,73000,False,USA,normally used
+Carnival,Dammam,Kia,Automatic,Gulf Arabic,Semi Full,2016,2.5,85000,False,South Korea,normally used
+Ranger,Dammam,Ford,Manual,Saudi,Semi Full,2015,2.0,219000,False,USA,overly used
+Hilux,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2019,2.7,32595,False,Japan,normally used
+Caprice,Abha,Chevrolet,Automatic,Other,Standard,2013,6.0,215,False,USA,seldomly used
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2013,5.4,250000,False,USA,overly used
+Avalon,Aseer,Toyota,Automatic,Saudi,Full,2012,3.5,225000,False,Japan,overly used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,1.4,55893,False,South Korea,normally used
+Furniture,Riyadh,Toyota,Automatic,Saudi,Semi Full,2012,2.0,202245,False,Japan,overly used
+Veloster,Jeddah,Hyundai,Automatic,Saudi,Full,2013,2.0,149675,False,South Korea,normally used
+Patrol,Riyadh,Nissan,Automatic,Saudi,Full,2015,5.6,228000,False,Japan,overly used
+Camry,Dammam,Toyota,Automatic,Gulf Arabic,Semi Full,2017,2.5,120500,False,Japan,overly used
+Camry,Dammam,Toyota,Automatic,Saudi,Full,2019,2.5,97000,False,Japan,overly used
+S,Dammam,Mercedes,Automatic,Saudi,Standard,2016,3.0,60000,False,Germany,normally used
+Hilux,Dammam,Toyota,Manual,Saudi,Standard,2016,2.4,250000,False,Japan,extremely used
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2018,2.7,175000,False,Japan,extremely used
+The 7,Riyadh,BMW,Automatic,Gulf Arabic,Full,2020,2.0,14000,False,Germany,seldomly used
+Taurus,Dammam,Ford,Automatic,Saudi,Standard,2018,3.5,65000,False,USA,normally used
+Avalon,Jeddah,Toyota,Automatic,Saudi,Semi Full,2014,3.5,188257,False,Japan,overly used
+Grand Cherokee,Al-Namas,Jeep,Automatic,Saudi,Semi Full,2014,3.6,245000,False,USA,overly used
+Pajero,Riyadh,Mitsubishi,Automatic,Saudi,Full,2016,3.8,200,False,Japan,seldomly used
+Taurus,Riyadh,Ford,Automatic,Other,Full,2016,3.5,91815,False,USA,normally used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Standard,2016,5.3,139000,False,USA,overly used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2015,1.4,181802,False,South Korea,overly used
+ES,Dammam,Lexus,Automatic,Other,Full,2019,3.5,40000,False,Japan,normally used
+Innova,Jeddah,Toyota,Automatic,Saudi,Semi Full,2018,2.0,99000,False,Japan,overly used
+Ram,Riyadh,Dodge,Automatic,Saudi,Semi Full,2011,5.7,190000,False,USA,normally used
+Pathfinder,Riyadh,Nissan,Automatic,Saudi,Semi Full,2013,3.5,127000,False,Japan,normally used
+Furniture,Aseer,Toyota,Automatic,Saudi,Standard,2021,2.7,11000,False,Japan,normally used
+Sonata,Al-Ahsa,Hyundai,Automatic,Saudi,Full,2017,2.5,154,False,South Korea,seldomly used
+LX,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2020,5.7,27000,False,Japan,normally used
+Elantra,Jeddah,Hyundai,Automatic,Saudi,Standard,2017,2.0,137000,False,South Korea,overly used
+Charger,Taef,Dodge,Automatic,Saudi,Semi Full,2018,1.6,5000,False,USA,seldomly used
+The 7,Jeddah,BMW,Automatic,Saudi,Semi Full,2012,2.0,197000,False,Germany,normally used
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2015,2.7,157000,False,Japan,overly used
+The 6,Khobar,BMW,Automatic,Saudi,Full,2014,3.0,206000,False,Germany,overly used
+G80,Riyadh,Genesis,Automatic,Saudi,Semi Full,2018,3.8,75000,False,South Korea,normally used
+Range Rover,Dammam,Land Rover,Automatic,Gulf Arabic,Full,2016,5.0,56500,False,UK,seldomly used
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Standard,2019,2.4,72000,False,South Korea,overly used
+Accord,Riyadh,Honda,Automatic,Gulf Arabic,Semi Full,2016,2.4,68000,False,Japan,normally used
+Grand Cherokee,Abha,Jeep,Automatic,Saudi,Standard,2014,5.7,233000,False,USA,overly used
+Sportage,Riyadh,Kia,Automatic,Saudi,Standard,2018,2.4,93000,False,South Korea,overly used
+Sentra,Al-Ahsa,Nissan,Automatic,Gulf Arabic,Standard,2018,1.6,97000,False,Japan,overly used
+ES,Aseer,Lexus,Automatic,Other,Full,2016,1.5,100000,False,Japan,normally used
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2019,1.5,105739,False,Japan,overly used
+Suburban,Riyadh,Chevrolet,Automatic,Gulf Arabic,Standard,2016,5.2,96000,False,USA,normally used
+Accord,Riyadh,Honda,Automatic,Gulf Arabic,Semi Full,2018,1.5,53146,False,Japan,normally used
+Suburban,Dammam,Chevrolet,Automatic,Saudi,Standard,2015,5.3,201000,False,USA,overly used
+Tucson,Riyadh,Hyundai,Automatic,Saudi,Standard,2016,2.0,72000,False,South Korea,normally used
+S300,Dammam,Chrysler,Automatic,Other,Semi Full,2015,3.6,109000,False,USA,normally used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2016,1.4,151000,False,South Korea,overly used
+Taurus,Dammam,Ford,Automatic,Other,Semi Full,2016,3.5,108000,False,USA,normally used
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2016,2.0,119000,False,South Korea,normally used
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2020,1.6,16925,False,South Korea,seldomly used
+Pajero,Dammam,Mitsubishi,Automatic,Gulf Arabic,Full,2016,3.8,216000,False,Japan,overly used
+CLA,Riyadh,Mercedes,Automatic,Saudi,Full,2017,2.0,103000,False,Germany,overly used
+CT-S,Riyadh,Cadillac,Automatic,Saudi,Full,2010,3.6,240000,False,USA,overly used
+Charger,Riyadh,Dodge,Automatic,Saudi,Standard,2016,1.0,151000,False,USA,overly used
+A3,Riyadh,Audi,Automatic,Saudi,Semi Full,2016,1.4,70278,False,Germany,normally used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2013,5.3,200000,False,USA,overly used
+Land Cruiser,Dammam,Toyota,Automatic,Saudi,Full,2019,4.6,63000,False,Japan,overly used
+Innova,Jeddah,Toyota,Automatic,Saudi,Full,2017,2.7,247000,False,Japan,extremely used
+Camry,Dammam,Toyota,Automatic,Gulf Arabic,Standard,2017,2.5,107000,False,Japan,overly used
+Azera,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,3.0,74000,False,South Korea,overly used
+Tucson,Riyadh,Hyundai,Automatic,Saudi,Standard,2020,2.0,16458,False,South Korea,seldomly used
+A3,Riyadh,Audi,Automatic,Saudi,Semi Full,2016,2.0,70000,False,Germany,normally used
+FJ,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2017,1.6,74658,False,Japan,normally used
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2019,1.5,99104,False,Japan,overly used
+Corolla,Jeddah,Toyota,Automatic,Saudi,Standard,2016,1.6,139000,False,Japan,overly used
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2009,6.0,135000,False,USA,normally used
+Taurus,Dammam,Ford,Automatic,Other,Full,2015,3.5,121000,False,USA,normally used
+Attrage,Jazan,Mitsubishi,Automatic,Saudi,Semi Full,2021,1.2,3000,False,Japan,seldomly used
+APV,Dammam,Suzuki,Manual,Saudi,Standard,2017,1.6,80000,False,Japan,normally used
+Sentra,Riyadh,Nissan,Automatic,Saudi,Standard,2018,1.6,64000,False,Japan,normally used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,1.6,143021,False,South Korea,overly used
+FJ,Riyadh,Toyota,Automatic,Other,Full,2014,4.0,149000,False,Japan,normally used
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Saudi,Full,2018,4.0,81499,False,Japan,overly used
+Camry,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2018,2.5,42000,False,Japan,normally used
+H1,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,2.4,209677,False,South Korea,extremely used
+CT-S,Dammam,Cadillac,Automatic,Saudi,Semi Full,2019,2.0,43000,False,USA,normally used
+Flex,Riyadh,Ford,Automatic,Saudi,Full,2013,3.5,71927,False,USA,seldomly used
+Impala,Riyadh,Chevrolet,Automatic,Saudi,Full,2015,3.6,212000,False,USA,overly used
+Optima,Riyadh,Kia,Automatic,Saudi,Full,2017,2.4,130,False,South Korea,seldomly used
+Durango,Tabouk,Dodge,Automatic,Other,Full,2013,5.7,275000,False,USA,overly used
+Azera,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2016,3.0,199100,False,South Korea,overly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,2.4,171000,False,South Korea,overly used
+Elantra,Jeddah,Hyundai,Automatic,Saudi,Full,2018,2.0,142,False,South Korea,seldomly used
+Sonata,Al-Ahsa,Hyundai,Automatic,Saudi,Standard,2018,2.4,65000,False,South Korea,normally used
+Edge,Jubail,Ford,Automatic,Other,Semi Full,2010,3.5,187200,False,USA,normally used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2017,1.4,53000,False,South Korea,normally used
+6,Qassim,Mazda,Automatic,Gulf Arabic,Standard,2016,2.0,196000,False,Japan,overly used
+Silverado,Dammam,Chevrolet,Automatic,Saudi,Standard,2018,5.3,57000,False,USA,normally used
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2018,2.0,78508,False,USA,normally used
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Standard,2017,2.4,139000,False,South Korea,overly used
+IS,Dammam,Lexus,Automatic,Gulf Arabic,Full,2016,3.5,89000,False,Japan,normally used
+Innova,Jeddah,Toyota,Automatic,Saudi,Full,2017,2.7,130000,False,Japan,overly used
+Odyssey,Jeddah,Honda,Automatic,Saudi,Standard,2020,3.5,40000,False,Japan,overly used
+Expedition,Riyadh,Ford,Automatic,Saudi,Standard,2009,5.4,360,False,USA,seldomly used
+KICKS,Dammam,Nissan,Automatic,Saudi,Full,2019,2.4,87000,False,Japan,overly used
+The 5,Riyadh,BMW,Automatic,Saudi,Full,2009,2.3,216500,False,Germany,normally used
+Optima,Riyadh,Kia,Automatic,Saudi,Semi Full,2015,2.4,173544,False,South Korea,overly used
+Rio,Dammam,Kia,Automatic,Saudi,Semi Full,2017,1.4,12000,False,South Korea,seldomly used
+S,Riyadh,Mercedes,Automatic,Saudi,Full,2012,3.0,140000,False,Germany,normally used
+Range Rover,Makkah,Land Rover,Automatic,Saudi,Semi Full,2016,4.0,72000,False,UK,normally used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,1.4,124975,False,South Korea,overly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Full,2018,2.4,49271,False,South Korea,normally used
+S,Qassim,Mercedes,Automatic,Saudi,Full,2018,3.5,53700,False,Germany,normally used
+E,Riyadh,Mercedes,Automatic,Gulf Arabic,Full,2016,3.0,117000,False,Germany,normally used
+Vego,Jeddah,Ford,Automatic,Saudi,Standard,2019,1.5,26315,False,USA,seldomly used
+Acadia,Riyadh,GMC,Automatic,Saudi,Semi Full,2016,3.6,148000,False,USA,overly used
+RX8,Jeddah,MG,Automatic,Saudi,Semi Full,2020,2.0,19000,False,UK,seldomly used
+The M,Dammam,BMW,Automatic,Gulf Arabic,Standard,2018,2.0,1600,False,Germany,seldomly used
+Compass,Riyadh,Jeep,Automatic,Saudi,Full,2011,2.4,245000,False,USA,overly used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2018,1.4,130000,False,South Korea,overly used
+Mustang,Dammam,Ford,Automatic,Other,Full,2016,2.3,84000,False,USA,normally used
+Accord,Dammam,Honda,Automatic,Saudi,Full,2009,2.4,159000,False,Japan,normally used
+Taurus,Dammam,Ford,Automatic,Other,Semi Full,2019,3.5,108000,False,USA,overly used
+CX9,Dammam,Mazda,Automatic,Gulf Arabic,Full,2016,3.7,193000,False,Japan,overly used
+Innova,Al-Medina,Toyota,Automatic,Saudi,Standard,2014,2.5,163000,False,Japan,overly used
+X7,Riyadh,Geely,Automatic,Saudi,Full,2019,2.4,32209,False,China,normally used
+Taurus,Jeddah,Ford,Automatic,Saudi,Standard,2018,2.0,91000,False,USA,overly used
+CT4,Jeddah,Cadillac,Automatic,Gulf Arabic,Semi Full,2020,3.7,100,False,USA,seldomly used
+The 7,Jeddah,BMW,Automatic,Saudi,Full,2014,6.0,182000,False,Germany,overly used
+Accord,Hail,Honda,Automatic,Other,Standard,2017,2.4,141000,False,Japan,overly used
+The 5,Jubail,BMW,Automatic,Gulf Arabic,Standard,2018,2.0,16000,False,Germany,seldomly used
+F3,Al-Medina,BYD,Automatic,Saudi,Standard,2020,1.5,60000,False,China,overly used
+Avalon,Riyadh,Toyota,Automatic,Saudi,Standard,2015,3.5,249539,False,Japan,overly used
+Yukon,Riyadh,GMC,Automatic,Saudi,Semi Full,2017,6.0,61339,False,USA,normally used
+Land Cruiser,Dammam,Toyota,Automatic,Gulf Arabic,Full,2019,5.7,101000,False,Japan,overly used
+Senta fe,Al-Baha,Hyundai,Automatic,Saudi,Full,2013,3.3,196000,False,South Korea,overly used
+Impala,Riyadh,Chevrolet,Automatic,Saudi,Standard,2016,3.6,118000,False,USA,normally used
+Copper,Dammam,MINI,Automatic,Gulf Arabic,Full,2016,2.0,110000,False,UK,normally used
+300,Riyadh,Chrysler,Automatic,Gulf Arabic,Full,2016,3.5,18000,False,USA,seldomly used
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2018,1.5,105499,False,Japan,overly used
+Hilux,Dammam,Toyota,Manual,Saudi,Standard,2016,2.7,165000,False,Japan,overly used
+CX9,Jeddah,Mazda,Automatic,Saudi,Standard,2020,2.5,20000,False,Japan,normally used
+Maxima,Riyadh,Nissan,Automatic,Gulf Arabic,Semi Full,2014,3.5,180,False,Japan,seldomly used
+C300,Qassim,Chrysler,Automatic,Other,Full,2016,3.6,121000,False,USA,overly used
+Azera,Riyadh,Hyundai,Automatic,Saudi,Full,2018,3.5,50000,False,South Korea,normally used
+Hiace,Riyadh,Toyota,Manual,Saudi,Standard,2017,2.7,192692,False,Japan,overly used
+Expedition,Al-Ahsa,Ford,Automatic,Saudi,Semi Full,2015,5.4,142000,False,USA,overly used
+Camry,Qassim,Toyota,Automatic,Gulf Arabic,Standard,2019,2.5,34727,False,Japan,normally used
+G80,Jeddah,Genesis,Automatic,Saudi,Semi Full,2017,3.8,240000,False,South Korea,extremely used
+Tiggo,Riyadh,Chery,Automatic,Saudi,Standard,2021,1.5,4175,False,China,seldomly used
+Yukon,Riyadh,GMC,Automatic,Saudi,Semi Full,2013,5.3,150000,False,USA,normally used
+Navara,Jeddah,Nissan,Automatic,Other,Full,2015,2.5,19000,False,Japan,seldomly used
+Yukon,Makkah,GMC,Automatic,Saudi,Standard,2012,5.3,65000,False,USA,seldomly used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2013,5.2,201866,False,USA,overly used
+Taurus,Dammam,Ford,Automatic,Saudi,Standard,2017,3.5,123000,False,USA,overly used
+LF X60,Jeddah,Lifan,Automatic,Saudi,Full,2016,1.6,128000,False,China,overly used
+Yaris,Dammam,Toyota,Automatic,Saudi,Semi Full,2016,1.5,9800,False,Japan,seldomly used
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2018,1.5,92904,False,Japan,overly used
+C,Jeddah,Mercedes,Automatic,Saudi,Full,2014,1.8,148925,False,Germany,normally used
+Patrol,Riyadh,Nissan,Automatic,Saudi,Semi Full,2015,5.6,219175,False,Japan,overly used
+Hilux,Jeddah,Toyota,Manual,Saudi,Full,2014,2.7,180000,False,Japan,overly used
+D-MAX,Riyadh,Isuzu,Manual,Saudi,Standard,2016,2.5,275000,False,Japan,extremely used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Standard,2011,5.3,143000,False,USA,normally used
+Impala,Qassim,Chevrolet,Automatic,Gulf Arabic,Standard,2019,3.5,53000,False,USA,normally used
+Suburban,Dammam,Chevrolet,Automatic,Other,Full,2016,5.3,192000,False,USA,overly used
+Sorento,Riyadh,Kia,Automatic,Saudi,Full,2015,3.5,116731,False,South Korea,normally used
+ES,Yanbu,Lexus,Automatic,Saudi,Full,2019,2.5,62000,False,Japan,overly used
+6,Riyadh,Mazda,Automatic,Saudi,Standard,2019,2.5,129000,False,Japan,extremely used
+Impala,Riyadh,Chevrolet,Automatic,Gulf Arabic,Standard,2017,3.5,89000,False,USA,normally used
+S,Riyadh,Mercedes,Automatic,Other,Full,2014,3.0,179000,False,Germany,overly used
+RX,Dammam,Lexus,Automatic,Saudi,Full,2016,3.5,121000,False,Japan,overly used
+C300,Riyadh,Chrysler,Automatic,Saudi,Standard,2017,3.6,133000,False,USA,overly used
+Hilux,Riyadh,Toyota,Manual,Gulf Arabic,Full,2020,2.7,15000,False,Japan,seldomly used
+ES,Jeddah,Lexus,Automatic,Saudi,Full,2019,2.0,47000,False,Japan,normally used
+Camry,Tabouk,Toyota,Automatic,Saudi,Standard,2017,2.5,120,False,Japan,seldomly used
+C,Riyadh,Mercedes,Automatic,Gulf Arabic,Full,2015,2.0,54000,False,Germany,seldomly used
+Prado,Riyadh,Toyota,Automatic,Gulf Arabic,Semi Full,2018,4.0,86000,False,Japan,overly used
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2017,1.6,86782,False,Japan,normally used
+Prado,Riyadh,Toyota,Automatic,Saudi,Semi Full,2016,4.0,201000,False,Japan,overly used
+Prestige,Tabouk,Genesis,Automatic,Gulf Arabic,Semi Full,2015,3.8,85343,False,South Korea,normally used
+ES,Riyadh,Lexus,Automatic,Gulf Arabic,Semi Full,2015,3.5,104000,False,Japan,normally used
+Accord,Jeddah,Honda,Automatic,Saudi,Full,2012,3.5,225000,False,Japan,overly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2018,2.4,65325,False,South Korea,normally used
+Sonata,Qassim,Hyundai,Automatic,Other,Semi Full,2017,1.7,82190,False,South Korea,normally used
+A6,Riyadh,Audi,Automatic,Saudi,Semi Full,2013,3.0,75000,False,Germany,seldomly used
+H1,Al-Jouf,Hyundai,Automatic,Saudi,Full,2012,2.4,240,False,South Korea,seldomly used
+Yukon,Dammam,GMC,Automatic,Saudi,Standard,2011,5.3,156000,False,USA,normally used
+Corolla,Riyadh,Toyota,Automatic,Saudi,Standard,2020,1.6,16479,False,Japan,seldomly used
+E,Makkah,Mercedes,Automatic,Saudi,Full,2020,2.0,10000,False,Germany,seldomly used
+Elantra,Hail,Hyundai,Automatic,Saudi,Standard,2017,2.0,86000,False,South Korea,normally used
+Impala,Qassim,Chevrolet,Automatic,Saudi,Semi Full,2019,3.5,91000,False,USA,overly used
+Hilux,Al-Jouf,Toyota,Manual,Saudi,Full,2017,2.7,168000,False,Japan,overly used
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2018,5.7,82000,False,Japan,overly used
+MKX,Dammam,Lincoln,Automatic,Other,Full,2016,3.7,99000,False,USA,normally used
+LX,Qassim,Lexus,Automatic,Gulf Arabic,Full,2014,5.7,88000,False,Japan,normally used
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2018,2.7,111000,False,Japan,overly used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2018,1.4,105500,False,South Korea,overly used
+IS,Riyadh,Lexus,Automatic,Saudi,Semi Full,2018,3.5,131,False,Japan,seldomly used
+Sonata,Aseer,Hyundai,Automatic,Saudi,Semi Full,2018,2.4,72000,False,South Korea,normally used
+FJ,Riyadh,Toyota,Automatic,Saudi,Full,2016,4.0,184000,False,Japan,overly used
+Yaris,Dammam,Toyota,Automatic,Saudi,Semi Full,2019,1.5,42628,False,Japan,normally used
+The 3,Jeddah,BMW,Automatic,Saudi,Full,2014,2.0,84000,False,Germany,normally used
+Accord,Dammam,Honda,Automatic,Saudi,Standard,2017,2.4,104000,False,Japan,overly used
+Hilux,Jazan,Toyota,Manual,Saudi,Standard,2014,1.0,160,False,Japan,seldomly used
+GX,Riyadh,Lexus,Automatic,Saudi,Full,2015,4.6,146000,False,Japan,overly used
+S,Riyadh,Mercedes,Automatic,Other,Full,2016,4.7,95061,False,Germany,normally used
+Pajero,Jeddah,Mitsubishi,Automatic,Saudi,Full,2016,3.8,91000,False,Japan,normally used
+FJ,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2016,4.9,115,False,Japan,seldomly used
+Passat,Jeddah,Volkswagen,Automatic,Saudi,Standard,2013,2.5,160000,False,Germany,normally used
+Civic,Jeddah,Honda,Automatic,Saudi,Semi Full,2019,1.6,41000,False,Japan,normally used
+Corolla,Jeddah,Toyota,Automatic,Other,Semi Full,2017,1.6,75000,False,Japan,normally used
+Q,Riyadh,INFINITI,Automatic,Gulf Arabic,Semi Full,2019,2.0,5000,False,Japan,seldomly used
+Taurus,Dammam,Ford,Automatic,Other,Semi Full,2018,3.5,100000,False,USA,overly used
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2018,2.7,94458,False,Japan,overly used
+Camry,Qassim,Toyota,Automatic,Saudi,Standard,2019,2.5,48000,False,Japan,normally used
+E,Riyadh,Mercedes,Automatic,Other,Standard,2019,2.0,28000,False,Germany,seldomly used
+Hilux,Aseer,Toyota,Manual,Saudi,Full,2020,2.4,34000,False,Japan,normally used
+Corolla,Riyadh,Toyota,Automatic,Saudi,Standard,2018,1.6,90000,False,Japan,overly used
+C,Dammam,Mercedes,Automatic,Other,Full,2015,2.0,82000,False,Germany,normally used
+Furniture,Jeddah,Toyota,Automatic,Saudi,Semi Full,2017,4.0,37800,False,Japan,seldomly used
+300,Riyadh,Chrysler,Automatic,Saudi,Semi Full,2014,3.5,272000,False,USA,overly used
+X,Riyadh,BMW,Automatic,Other,Standard,2020,3.0,20000,False,Germany,normally used
+Prado,Jeddah,Toyota,Automatic,Saudi,Full,2014,4.0,121000,False,Japan,normally used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2016,1.4,159626,False,South Korea,overly used
+Impala,Riyadh,Chevrolet,Automatic,Saudi,Standard,2018,3.6,63118,False,USA,normally used
+Rio,Riyadh,Kia,Automatic,Saudi,Standard,2016,1.4,272232,False,South Korea,extremely used
+Cerato,Riyadh,Kia,Automatic,Saudi,Standard,2018,1.6,127000,False,South Korea,overly used
+S,Riyadh,Mercedes,Automatic,Saudi,Semi Full,2016,4.0,35000,False,Germany,seldomly used
+Taurus,Yanbu,Ford,Automatic,Other,Semi Full,2016,3.5,125000,False,USA,overly used
+Duster,Riyadh,Renault,Automatic,Saudi,Standard,2017,2.0,83000,False,France,normally used
+Viano,Al-Medina,Mercedes,Automatic,Saudi,Full,2015,3.5,119000,False,Germany,normally used
+CX9,Qassim,Mazda,Automatic,Gulf Arabic,Full,2015,2.4,138020,False,Japan,normally used
+Optima,Al-Medina,Kia,Automatic,Gulf Arabic,Full,2014,2.4,200,False,South Korea,seldomly used
+3008,Riyadh,Peugeot,Automatic,Saudi,Full,2014,1.5,76335,False,France,seldomly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,2.4,100000,False,South Korea,overly used
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2014,5.0,131000,False,UK,normally used
+F150,Qassim,Ford,Automatic,Saudi,Full,2014,3.2,200000,False,USA,overly used
+FJ,Dammam,Toyota,Automatic,Saudi,Full,2017,4.0,265000,False,Japan,extremely used
+C300,Riyadh,Chrysler,Automatic,Saudi,Full,2018,5.7,70000,False,USA,normally used
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Saudi,Standard,2018,4.0,98000,False,Japan,overly used
+Altima,Riyadh,Nissan,Automatic,Saudi,Standard,2017,2.5,40000,False,Japan,seldomly used
+Camry,Riyadh,Toyota,Automatic,Saudi,Standard,2017,2.5,109862,False,Japan,overly used
+Civic,Jeddah,Honda,Automatic,Saudi,Full,2016,2.0,68800,False,Japan,normally used
+Sierra,Riyadh,GMC,Automatic,Other,Semi Full,2020,5.3,15800,False,USA,seldomly used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2016,5.3,123496,False,USA,overly used
+G80,Riyadh,Genesis,Automatic,Saudi,Semi Full,2019,3.8,66000,False,South Korea,overly used
+Prado,Al-Ahsa,Toyota,Automatic,Gulf Arabic,Semi Full,2018,4.0,78000,False,Japan,normally used
+Avalon,Aseer,Toyota,Automatic,Saudi,Full,2013,3.5,169000,False,Japan,normally used
+EC7,Taef,Geely,Automatic,Saudi,Full,2016,1.8,42420,False,China,seldomly used
+RX,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2016,3.5,176700,False,Japan,overly used
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Semi Full,2021,4.5,20000,False,Japan,overly used
+Range Rover,Dammam,Land Rover,Automatic,Saudi,Full,2014,3.0,195000,False,UK,overly used
+Cerato,Riyadh,Kia,Automatic,Gulf Arabic,Standard,2016,1.6,118000,False,South Korea,normally used
+Camaro,Riyadh,Chevrolet,Automatic,Other,Full,2017,2.0,81633,False,USA,normally used
+LX,Jeddah,Lexus,Automatic,Saudi,Full,2018,5.7,95000,False,Japan,overly used
+E,Riyadh,Mercedes,Automatic,Gulf Arabic,Full,2016,3.0,114000,False,Germany,normally used
+Wrangler,Jazan,Jeep,Automatic,Saudi,Standard,2019,3.6,79000,False,USA,overly used
+Royal,Riyadh,Genesis,Automatic,Saudi,Full,2015,5.0,98000,False,South Korea,normally used
+ES,Dammam,Lexus,Automatic,Other,Semi Full,2016,3.5,88000,False,Japan,normally used
+Impala,Aseer,Chevrolet,Automatic,Saudi,Standard,2016,3.5,139000,False,USA,overly used
+Accord,Dammam,Honda,Automatic,Gulf Arabic,Full,2019,1.5,8200,False,Japan,seldomly used
+Prado,Aseer,Toyota,Automatic,Saudi,Semi Full,2015,4.0,160000,False,Japan,overly used
+Cerato,Jeddah,Kia,Automatic,Saudi,Semi Full,2016,1.6,159,False,South Korea,seldomly used
+Taurus,Dammam,Ford,Automatic,Other,Full,2016,3.5,110000,False,USA,normally used
+Corolla,Jeddah,Toyota,Automatic,Saudi,Standard,2018,1.6,121000,False,Japan,overly used
+Navara,Al-Namas,Nissan,Manual,Saudi,Semi Full,2015,2.5,119000,False,Japan,normally used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,1.6,103461,False,South Korea,overly used
+Mini Van,Riyadh,Foton,Manual,Gulf Arabic,Standard,2017,2.7,145000,False,China,overly used
+Silverado,Hail,Chevrolet,Automatic,Saudi,Semi Full,2016,5.3,179000,False,USA,overly used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2019,1.4,59800,False,South Korea,normally used
+Camry,Qassim,Toyota,Automatic,Gulf Arabic,Standard,2016,2.5,117000,False,Japan,normally used
+Blazer,Jubail,Chevrolet,Automatic,Saudi,Standard,2015,3.6,180000,False,USA,overly used
+Hilux,Riyadh,Toyota,Manual,Saudi,Semi Full,2018,2.7,111362,False,Japan,overly used
+Previa,Riyadh,Toyota,Automatic,Gulf Arabic,Standard,2017,2.4,139000,False,Japan,overly used
+Cadenza,Riyadh,Kia,Automatic,Saudi,Standard,2018,3.5,128000,False,South Korea,overly used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2017,1.6,120000,False,South Korea,overly used
+Camry,Riyadh,Toyota,Automatic,Saudi,Standard,2016,2.5,136111,False,Japan,overly used
+Camry,Dammam,Toyota,Automatic,Saudi,Standard,2018,2.5,179000,False,Japan,extremely used
+Caprice,Jeddah,Chevrolet,Automatic,Saudi,Full,2009,6.2,200,False,USA,seldomly used
+Hilux,Abha,Toyota,Manual,Saudi,Full,2015,2.7,157000,False,Japan,overly used
+The 3,Jeddah,BMW,Automatic,Saudi,Full,2011,2.5,74000,False,Germany,seldomly used
+Hilux,Riyadh,Toyota,Manual,Gulf Arabic,Standard,2012,2.7,171000,False,Japan,normally used
+Land Cruiser,Aseer,Toyota,Automatic,Saudi,Full,2011,4.6,434,False,Japan,seldomly used
+Flying Spur,Dammam,Bentley,Automatic,Saudi,Full,2015,6.0,47000,False,UK,seldomly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Full,2018,2.4,84315,False,South Korea,overly used
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Full,2017,1.6,240000,False,South Korea,extremely used
+Caprice,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2008,3.5,255000,False,USA,normally used
+Range Rover,Al-Medina,Land Rover,Automatic,Saudi,Full,2017,5.2,77000,False,UK,normally used
+Creta,Riyadh,Hyundai,Automatic,Saudi,Standard,2020,1.6,65357,False,South Korea,overly used
+CX9,Riyadh,Mazda,Automatic,Saudi,Semi Full,2016,3.0,230000,False,Japan,overly used
+Yaris,Makkah,Toyota,Automatic,Saudi,Standard,2017,1.3,100000,False,Japan,overly used
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2012,2.1,215000,False,USA,overly used
+Furniture,Taef,Toyota,Automatic,Saudi,Full,2015,2.7,157000,False,Japan,overly used
+Hilux,Dammam,Toyota,Manual,Saudi,Standard,2018,2.7,88000,False,Japan,overly used
+Eado,Riyadh,Changan,Automatic,Saudi,Semi Full,2020,1.5,61760,False,China,overly used
+6,Hafar Al-Batin,Mazda,Automatic,Saudi,Full,2016,2.5,117000,False,Japan,normally used
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2016,5.4,109000,False,USA,normally used
+Wrangler,Riyadh,Jeep,Automatic,Saudi,Semi Full,2019,3.6,26000,False,USA,seldomly used
+Victoria,Dammam,Ford,Automatic,Saudi,Standard,2012,4.5,220000,False,USA,overly used
+Taurus,Dammam,Ford,Automatic,Other,Full,2016,3.5,129000,False,USA,overly used
+Pajero,Dammam,Mitsubishi,Automatic,Saudi,Semi Full,2017,3.5,159000,False,Japan,overly used
+Sonata,Riyadh,Hyundai,Automatic,Gulf Arabic,Semi Full,2019,2.4,28000,False,South Korea,seldomly used
+Silverado,Abha,Chevrolet,Automatic,Saudi,Semi Full,2014,5.3,164000,False,USA,overly used
+Tucson,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2019,1.0,67000,False,South Korea,overly used
+Durango,Jeddah,Dodge,Automatic,Saudi,Standard,2014,5.7,170000,False,USA,overly used
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2014,5.7,220000,False,Japan,overly used
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2016,5.4,98000,False,USA,normally used
+Altima,Qassim,Nissan,Automatic,Gulf Arabic,Semi Full,2015,2.5,13000,False,Japan,seldomly used
+Caprice,Dammam,Chevrolet,Automatic,Other,Semi Full,2013,6.2,193000,False,USA,overly used
+H1,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,2.4,106336,False,South Korea,overly used
+Charger,Dammam,Dodge,Automatic,Gulf Arabic,Semi Full,2019,3.6,55000,False,USA,normally used
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2018,1.5,69000,False,Japan,normally used
+H2,Jeddah,HAVAL,Automatic,Saudi,Full,2021,1.5,2800,False,China,seldomly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,2.4,120966,False,South Korea,overly used
+H1,Riyadh,Hyundai,Automatic,Saudi,Standard,2015,2.4,144000,False,South Korea,overly used
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Semi Full,2016,5.7,68534,False,Japan,normally used
+Senta fe,Jeddah,Hyundai,Automatic,Saudi,Full,2016,3.3,73115,False,South Korea,normally used
+Furniture,Riyadh,Toyota,Automatic,Saudi,Standard,2019,2.7,113000,False,Japan,overly used
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2018,3.5,111,False,Japan,seldomly used
+Land Cruiser,Dammam,Toyota,Automatic,Saudi,Full,2019,4.6,53000,False,Japan,normally used
+Camry,Jeddah,Toyota,Automatic,Gulf Arabic,Semi Full,2010,2.5,145,False,Japan,seldomly used
+H6,Jeddah,HAVAL,Automatic,Saudi,Full,2020,2.0,2000,False,China,seldomly used
+Passat,Jeddah,Volkswagen,Automatic,Gulf Arabic,Full,2015,2.5,90000,False,Germany,normally used
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2019,2.0,54000,False,USA,normally used
+Charger,Al-Medina,Dodge,Automatic,Other,Full,2016,1.7,140,False,USA,seldomly used
+Range Rover,Riyadh,Land Rover,Automatic,Gulf Arabic,Full,2016,5.0,58000,False,UK,seldomly used
+Sunny,Jeddah,Nissan,Automatic,Saudi,Standard,2018,1.5,106000,False,Japan,overly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2019,2.4,78000,False,South Korea,overly used
+Datsun,Taef,Nissan,Manual,Other,Full,2015,2.4,261000,False,Japan,overly used
+Delta,Aseer,Daihatsu,Manual,Saudi,Full,2014,3.7,100,False,Japan,seldomly used
+H1,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2015,2.4,140000,False,South Korea,overly used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2016,5.3,105286,False,USA,normally used
+Tahoe,Jeddah,Chevrolet,Automatic,Saudi,Standard,2015,5.3,150000,False,USA,overly used
+Accord,Riyadh,Honda,Automatic,Saudi,Standard,2018,1.5,129000,False,Japan,overly used
+Senta fe,Jeddah,Hyundai,Automatic,Saudi,Full,2014,3.3,150,False,South Korea,seldomly used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.4,74917,False,South Korea,overly used
+ES,Jeddah,Lexus,Automatic,Saudi,Full,2019,3.5,26000,False,Japan,seldomly used
+Furniture,Riyadh,Toyota,Automatic,Gulf Arabic,Standard,2015,2.7,243000,False,Japan,overly used
+CX9,Jeddah,Mazda,Automatic,Saudi,Full,2014,3.5,195000,False,Japan,overly used
+Rav4,Al-Ahsa,Toyota,Automatic,Other,Full,2018,2.7,56625,False,Japan,normally used
+Cayenne,Jeddah,Porsche,Automatic,Saudi,Full,2009,3.6,277000,False,Germany,overly used
+Land Cruiser Pickup,Dammam,Toyota,Manual,Saudi,Full,2018,4.0,28000,False,Japan,seldomly used
+Cadenza,Riyadh,Kia,Automatic,Saudi,Standard,2017,3.0,93000,False,South Korea,normally used
+Challenger,Riyadh,Dodge,Automatic,Saudi,Full,2014,5.7,155000,False,USA,normally used
+Charger,Riyadh,Dodge,Automatic,Other,Full,2016,5.7,123000,False,USA,overly used
+Spark,Riyadh,Chevrolet,Automatic,Saudi,Standard,2019,1.4,96342,False,USA,overly used
+Corolla,Khobar,Toyota,Automatic,Saudi,Semi Full,2018,1.6,124000,False,Japan,overly used
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2017,3.5,158039,False,USA,overly used
+Sonata,Aseer,Hyundai,Automatic,Saudi,Full,2016,2.4,230000,False,South Korea,overly used
+Flex,Riyadh,Ford,Automatic,Gulf Arabic,Standard,2017,2.5,110000,False,USA,overly used
+G,Riyadh,Mercedes,Automatic,Other,Full,2019,4.0,39000,False,Germany,normally used
+Sonata,Tabouk,Hyundai,Automatic,Gulf Arabic,Full,2018,2.0,79000,False,South Korea,normally used
+Cerato,Jeddah,Kia,Automatic,Saudi,Full,2017,1.6,77500,False,South Korea,normally used
+Optima,Riyadh,Kia,Automatic,Saudi,Semi Full,2015,2.0,191,False,South Korea,seldomly used
+E,Makkah,Mercedes,Automatic,Other,Full,2016,2.0,93000,False,Germany,normally used
+Carnival,Dammam,Kia,Automatic,Saudi,Semi Full,2016,3.3,243000,False,South Korea,extremely used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.4,48521,False,South Korea,normally used
+Charger,Yanbu,Dodge,Automatic,Saudi,Full,2013,5.7,144000,False,USA,normally used
+Optima,Dammam,Kia,Automatic,Gulf Arabic,Full,2018,2.4,83000,False,South Korea,overly used
+Explorer,Riyadh,Ford,Automatic,Saudi,Standard,2010,6.0,35000,False,USA,seldomly used
+Hiace,Riyadh,Toyota,Manual,Gulf Arabic,Semi Full,2015,2.7,200000,False,Japan,overly used
+GS3,Riyadh,GAC,Automatic,Other,Full,2021,1.3,22600,False,China,overly used
+Datsun,Riyadh,Nissan,Manual,Other,Semi Full,2015,2.4,108500,False,Japan,normally used
+X-Trail,Jeddah,Nissan,Automatic,Saudi,Standard,2018,2.5,78794,False,Japan,normally used
+Yukon,Al-Baha,GMC,Automatic,Saudi,Full,2009,6.2,138000,False,USA,normally used
+VTC,Dammam,Nissan,Manual,Saudi,Standard,2014,4.0,207000,False,Japan,overly used
+Charger,Taef,Dodge,Automatic,Other,Full,2013,5.7,175,False,USA,seldomly used
+Tucson,Jeddah,Hyundai,Automatic,Saudi,Semi Full,2020,2.0,22000,False,South Korea,normally used
+Passat,Jeddah,Volkswagen,Automatic,Saudi,Standard,2016,2.5,49000,False,Germany,seldomly used
+Patrol,Dammam,Nissan,Automatic,Saudi,Semi Full,2016,4.0,94000,False,Japan,normally used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2016,5.3,197000,False,USA,overly used
+CLA,Riyadh,Mercedes,Automatic,Other,Full,2020,2.0,15000,False,Germany,seldomly used
+Taurus,Al-Namas,Ford,Automatic,Saudi,Semi Full,2010,4.4,10000,False,USA,seldomly used
+FJ,Aseer,Toyota,Automatic,Gulf Arabic,Full,2015,4.0,200000,False,Japan,overly used
+Tuscani,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2016,2.0,95000,False,South Korea,normally used
+Emgrand,Qassim,Geely,Automatic,Saudi,Full,2020,2.4,37000,False,China,normally used
+X,Jeddah,BMW,Automatic,Saudi,Full,2009,3.0,180000,False,Germany,normally used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2011,5.3,188000,False,USA,normally used
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2018,1.6,47286,False,Japan,normally used
+Kona,Riyadh,Hyundai,Automatic,Saudi,Standard,2020,2.0,10239,False,South Korea,seldomly used
+Cadenza,Riyadh,Kia,Automatic,Saudi,Standard,2016,3.3,122000,False,South Korea,overly used
+Charger,Riyadh,Dodge,Automatic,Saudi,Semi Full,2016,5.7,236335,False,USA,overly used
+E,Riyadh,Mercedes,Automatic,Gulf Arabic,Full,2017,2.0,31000,False,Germany,seldomly used
+Charger,Dammam,Dodge,Automatic,Other,Full,2016,5.7,100000,False,USA,normally used
+X,Qassim,BMW,Automatic,Other,Full,2020,4.0,1000,False,Germany,seldomly used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2018,1.4,65700,False,South Korea,normally used
+Optima,Riyadh,Kia,Automatic,Saudi,Standard,2018,2.4,40000,False,South Korea,normally used
+Taurus,Riyadh,Ford,Automatic,Gulf Arabic,Full,2017,3.5,27000,False,USA,seldomly used
+Datsun,Riyadh,Nissan,Manual,Saudi,Full,2016,2.0,22000,False,Japan,seldomly used
+FJ,Riyadh,Toyota,Automatic,Saudi,Standard,2020,4.0,87700,False,Japan,extremely used
+Maxima,Riyadh,Nissan,Automatic,Saudi,Full,2017,1.0,135000,False,Japan,overly used
+Pajero,Jeddah,Mitsubishi,Automatic,Saudi,Full,2017,3.8,251000,False,Japan,extremely used
+LX,Jeddah,Lexus,Automatic,Saudi,Full,2015,5.7,105000,False,Japan,normally used
+LX,Dammam,Lexus,Automatic,Gulf Arabic,Full,2017,5.7,68000,False,Japan,normally used
+Innova,Qassim,Toyota,Automatic,Saudi,Semi Full,2015,2.7,216,False,Japan,seldomly used
+Fusion,Dammam,Ford,Automatic,Saudi,Semi Full,2015,2.5,157000,False,USA,overly used
+S,Dammam,Mercedes,Automatic,Saudi,Semi Full,2016,3.0,70000,False,Germany,normally used
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Semi Full,2017,5.7,100000,False,Japan,overly used
+Acadia,Khobar,GMC,Automatic,Saudi,Full,2014,3.6,250000,False,USA,overly used
+Altima,Riyadh,Nissan,Automatic,Saudi,Full,2017,2.5,135988,False,Japan,overly used
+Yukon,Hail,GMC,Automatic,Saudi,Semi Full,2011,5.3,223,False,USA,seldomly used
+Rio,Jeddah,Kia,Automatic,Other,Standard,2017,1.4,147000,False,South Korea,overly used
+Hilux,Dammam,Toyota,Manual,Saudi,Full,2020,2.4,29000,False,Japan,normally used
+Explorer,Makkah,Ford,Automatic,Other,Standard,2013,3.5,218000,False,USA,overly used
+Hilux,Dammam,Toyota,Manual,Saudi,Full,2017,2.7,62000,False,Japan,normally used
+Accord,Riyadh,Honda,Automatic,Saudi,Standard,2012,1.0,251000,False,Japan,overly used
+Terrain,Riyadh,GMC,Automatic,Saudi,Semi Full,2015,2.4,125000,False,USA,normally used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2017,1.6,169700,False,South Korea,overly used
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2018,5.7,98000,False,Japan,overly used
+6,Dammam,Mazda,Automatic,Saudi,Standard,2018,2.5,71169,False,Japan,normally used
+Grand Cherokee,Al-Medina,Jeep,Automatic,Saudi,Full,2015,5.7,215000,False,USA,overly used
+Hilux,Riyadh,Toyota,Manual,Saudi,Semi Full,2018,2.7,105558,False,Japan,overly used
+C,Dammam,Mercedes,Automatic,Saudi,Full,2019,2.0,40000,False,Germany,normally used
+LS,Jeddah,Lexus,Automatic,Other,Full,2011,4.6,220,False,Japan,seldomly used
+Hilux,Jeddah,Toyota,Manual,Gulf Arabic,Semi Full,2017,2.7,18000,False,Japan,seldomly used
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2014,2.7,221000,False,Japan,overly used
+Camry,Dammam,Toyota,Automatic,Saudi,Full,2019,3.5,86000,False,Japan,overly used
+CX9,Riyadh,Mazda,Automatic,Saudi,Full,2020,4.0,51000,False,Japan,overly used
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2018,5.0,26000,False,UK,seldomly used
+Expedition,Riyadh,Ford,Automatic,Saudi,Full,2018,3.5,36000,False,USA,seldomly used
+Camry,Dammam,Toyota,Automatic,Saudi,Semi Full,2017,2.5,63000,False,Japan,normally used
+Taurus,Dammam,Ford,Automatic,Other,Full,2015,3.5,122000,False,USA,normally used
+Prado,Jeddah,Toyota,Automatic,Saudi,Standard,2016,4.0,74000,False,Japan,normally used
+FJ,Riyadh,Toyota,Automatic,Saudi,Semi Full,2020,4.0,17000,False,Japan,seldomly used
+Camry,Qassim,Toyota,Automatic,Saudi,Standard,2017,2.5,84000,False,Japan,normally used
+Innova,Dammam,Toyota,Automatic,Saudi,Standard,2020,2.7,50000,False,Japan,overly used
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2015,5.7,247000,False,Japan,overly used
+X,Jeddah,BMW,Automatic,Saudi,Semi Full,2010,3.0,200,False,Germany,seldomly used
+Innova,Riyadh,Toyota,Automatic,Saudi,Standard,2017,2.7,203312,False,Japan,extremely used
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2013,2.5,185000,False,Japan,overly used
+Malibu,Riyadh,Chevrolet,Automatic,Gulf Arabic,Full,2017,2.0,62000,False,USA,normally used
+Vego,Jeddah,Ford,Automatic,Saudi,Standard,2019,1.5,51419,False,USA,normally used
+E,Dammam,Mercedes,Automatic,Gulf Arabic,Semi Full,2016,2.0,73000,False,Germany,normally used
+Camry,Dammam,Toyota,Automatic,Gulf Arabic,Full,2014,2.0,120000,False,Japan,normally used
+Furniture,Riyadh,Toyota,Automatic,Saudi,Full,2020,4.0,20000,False,Japan,normally used
+RX,Dammam,Lexus,Automatic,Gulf Arabic,Full,2016,2.5,81000,False,Japan,normally used
+Pegas,Riyadh,Kia,Automatic,Saudi,Standard,2020,1.4,5300,False,South Korea,seldomly used
+Taurus,Dammam,Ford,Automatic,Saudi,Standard,2017,3.5,61000,False,USA,normally used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,2.4,49000,False,South Korea,normally used
+Pajero,Jeddah,Mitsubishi,Automatic,Saudi,Full,2015,3.8,54000,False,Japan,seldomly used
+Copper,Al-Ahsa,MINI,Automatic,Gulf Arabic,Semi Full,2016,2.0,107000,False,UK,normally used
+Yukon,Dammam,GMC,Automatic,Other,Full,2016,4.5,158000,False,USA,overly used
+6,Jeddah,Mazda,Automatic,Saudi,Standard,2021,2.5,115,False,Japan,seldomly used
+Terrain,Jeddah,GMC,Automatic,Saudi,Semi Full,2013,2.4,90000,False,USA,normally used
+Taurus,Al-Baha,Ford,Automatic,Other,Semi Full,2010,3.5,380,False,USA,seldomly used
+Silverado,Dammam,Chevrolet,Automatic,Saudi,Standard,2018,5.3,127000,False,USA,overly used
+G80,Riyadh,Genesis,Automatic,Saudi,Semi Full,2020,3.8,11000,False,South Korea,seldomly used
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2019,5.7,41142,False,Japan,normally used
+Land Cruiser,Jeddah,Toyota,Automatic,Saudi,Full,2015,4.0,92000,False,Japan,normally used
+Innova,Jubail,Toyota,Automatic,Saudi,Full,2015,2.7,114000,False,Japan,normally used
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2019,1.5,88795,False,Japan,overly used
+Avalon,Tabouk,Toyota,Automatic,Saudi,Semi Full,2019,3.5,60000,False,Japan,overly used
+Ciocca,Al-Medina,Toyota,Automatic,Saudi,Semi Full,2016,5.7,390,False,Japan,seldomly used
+Range Rover,Riyadh,Land Rover,Automatic,Other,Full,2018,3.8,50000,False,UK,normally used
+Hilux,Dammam,Toyota,Manual,Saudi,Full,2009,2.7,400,False,Japan,seldomly used
+Range Rover,Riyadh,Land Rover,Automatic,Gulf Arabic,Full,2016,5.0,120346,False,UK,overly used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Standard,2015,5.3,176332,False,USA,overly used
+Range Rover,Jeddah,Land Rover,Automatic,Saudi,Full,2011,5.0,196000,False,UK,normally used
+Azkarra,Dammam,Geely,Automatic,Saudi,Full,2021,1.5,23000,False,China,overly used
+Passat,Jeddah,Volkswagen,Automatic,Saudi,Standard,2014,2.5,88673,False,Germany,normally used
+C,Dammam,Mercedes,Automatic,Other,Full,2016,2.0,99000,False,Germany,normally used
+Elantra,Dammam,Hyundai,Automatic,Saudi,Standard,2018,1.6,91700,False,South Korea,overly used
+Yaris,Dammam,Toyota,Automatic,Saudi,Standard,2016,1.5,126000,False,Japan,overly used
+Optima,Riyadh,Kia,Automatic,Gulf Arabic,Semi Full,2015,2.4,68245,False,South Korea,seldomly used
+Yukon,Tabouk,GMC,Automatic,Saudi,Full,2010,6.2,256,False,USA,seldomly used
+Patrol,Khobar,Nissan,Automatic,Saudi,Full,2016,4.0,183000,False,Japan,overly used
+Accent,Jeddah,Hyundai,Automatic,Saudi,Standard,2019,1.4,72000,False,South Korea,overly used
+Tahoe,Aseer,Chevrolet,Automatic,Saudi,Standard,2018,5.3,39000,False,USA,seldomly used
+Yaris,Riyadh,Toyota,Automatic,Saudi,Full,2015,1.5,204000,False,Japan,overly used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,1.4,183000,False,South Korea,overly used
+Accord,Riyadh,Honda,Automatic,Gulf Arabic,Semi Full,2016,2.4,80000,False,Japan,normally used
+Land Cruiser Pickup,Qassim,Toyota,Manual,Gulf Arabic,Semi Full,2015,4.0,232,False,Japan,seldomly used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,1.4,147000,False,South Korea,overly used
+Navara,Jeddah,Nissan,Automatic,Saudi,Full,2015,2.5,129000,False,Japan,normally used
+X-Trail,Aseer,Nissan,Automatic,Saudi,Semi Full,2016,2.5,142000,False,Japan,overly used
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2016,3.5,152000,False,USA,overly used
+Expedition,Jazan,Ford,Automatic,Saudi,Semi Full,2014,5.4,108000,False,USA,normally used
+Land Cruiser,Jeddah,Toyota,Automatic,Saudi,Full,2020,4.6,59000,False,Japan,overly used
+Durango,Jeddah,Dodge,Automatic,Saudi,Standard,2016,3.6,61000,False,USA,normally used
+Innova,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2016,2.7,190000,False,Japan,overly used
+Furniture,Riyadh,Toyota,Manual,Saudi,Full,2015,4.0,70000,False,Japan,normally used
+H1,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,2.4,79237,False,South Korea,normally used
+Camry,Makkah,Toyota,Automatic,Saudi,Standard,2014,2.5,166400,False,Japan,overly used
+SL,Jeddah,Mercedes,Automatic,Saudi,Full,2017,4.7,81000,False,Germany,normally used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.4,102113,False,South Korea,overly used
+Silverado,Dammam,Chevrolet,Automatic,Gulf Arabic,Semi Full,2014,5.3,233,False,USA,seldomly used
+Tahoe,Jeddah,Chevrolet,Automatic,Saudi,Full,2013,5.3,206,False,USA,seldomly used
+Grand Cherokee,Riyadh,Jeep,Automatic,Saudi,Full,2015,5.7,146000,False,USA,overly used
+Furniture,Jeddah,Toyota,Automatic,Saudi,Semi Full,2019,2.7,20000,False,Japan,seldomly used
+Range Rover,Dammam,Land Rover,Automatic,Saudi,Full,2015,2.0,113000,False,UK,normally used
+Echo Sport,Riyadh,Ford,Automatic,Gulf Arabic,Semi Full,2021,1.5,1900,False,USA,seldomly used
+Yaris,Jeddah,Toyota,Automatic,Saudi,Standard,2018,1.5,128000,False,Japan,overly used
+Sonata,Dammam,Hyundai,Automatic,Saudi,Standard,2017,2.4,109191,False,South Korea,overly used
+F150,Qassim,Ford,Automatic,Gulf Arabic,Standard,2019,5.0,22000,False,USA,seldomly used
+Sierra,Dammam,GMC,Automatic,Saudi,Standard,2018,5.3,95000,False,USA,overly used
+Sportage,Jeddah,Kia,Automatic,Saudi,Semi Full,2019,1.6,57000,False,South Korea,normally used
+Land Cruiser,Al-Medina,Toyota,Automatic,Gulf Arabic,Full,2021,4.6,9000,False,Japan,seldomly used
+CS35,Dammam,Changan,Automatic,Saudi,Full,2021,1.6,2400,False,China,seldomly used
+Acadia,Riyadh,GMC,Automatic,Gulf Arabic,Full,2012,3.6,220000,False,USA,overly used
+Liberty,Al-Medina,Jeep,Automatic,Saudi,Semi Full,2012,3.7,247000,False,USA,overly used
+Fusion,Riyadh,Ford,Automatic,Saudi,Full,2015,2.5,200000,False,USA,overly used
+CS35 Plus,Riyadh,Changan,Automatic,Saudi,Full,2020,1.4,64355,False,China,overly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,2.4,226000,False,South Korea,extremely used
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2019,2.0,82569,False,USA,overly used
+Cerato,Jeddah,Kia,Automatic,Saudi,Standard,2019,1.6,43629,False,South Korea,normally used
+Sentra,Riyadh,Nissan,Automatic,Saudi,Standard,2017,1.6,50700,False,Japan,normally used
+Tahoe,Riyadh,Chevrolet,Automatic,Gulf Arabic,Semi Full,2016,5.3,109000,False,USA,normally used
+Camry,Al-Medina,Toyota,Automatic,Unknown,Full,2020,2.5,10616,False,Japan,seldomly used
+Panamera,Al-Medina,Porsche,Automatic,Saudi,Full,2011,5.7,108000,False,Germany,seldomly used
+LX,Taef,Lexus,Automatic,Saudi,Semi Full,2015,5.7,100000,False,Japan,normally used
+Avalon,Makkah,Toyota,Automatic,Saudi,Full,2011,3.5,150000,False,Japan,normally used
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2019,1.5,93000,False,Japan,overly used
+The 7,Jeddah,BMW,Automatic,Saudi,Full,2019,3.0,14000,False,Germany,seldomly used
+Taurus,Dammam,Ford,Automatic,Other,Full,2015,3.5,117000,False,USA,normally used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Full,2010,2.7,260000,False,USA,overly used
+Macan,Dammam,Porsche,Automatic,Saudi,Full,2016,3.0,86000,False,Germany,normally used
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Standard,2020,3.0,17000,False,UK,seldomly used
+Tahoe,Al-Ahsa,Chevrolet,Automatic,Saudi,Semi Full,2013,5.3,248000,False,USA,overly used
+Tucson,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2018,1.6,27900,False,South Korea,seldomly used
+S5,Dammam,Audi,Automatic,Saudi,Full,2018,3.0,79800,False,Germany,normally used
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,1.6,131889,False,South Korea,overly used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,1.6,103000,False,South Korea,overly used
+Hilux,Riyadh,Toyota,Manual,Saudi,Standard,2016,2.7,155000,False,Japan,overly used
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Standard,2019,5.3,40000,False,USA,normally used
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Saudi,Semi Full,2014,3.0,175000,False,Japan,overly used
+Hilux,Dammam,Toyota,Manual,Saudi,Full,2016,2.7,28000,False,Japan,seldomly used
+Sonata,Al-Medina,Hyundai,Automatic,Saudi,Full,2018,2.4,97000,False,South Korea,overly used
+Accord,Qassim,Honda,Automatic,Saudi,Semi Full,2016,2.4,15000,False,Japan,seldomly used
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,2.4,194814,False,South Korea,overly used
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2017,2.5,95794,False,Japan,normally used
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2018,1.4,117000,False,South Korea,overly used
+Camry,Qassim,Toyota,Automatic,Other,Standard,2016,2.5,148254,False,Japan,overly used
+Cerato,Jeddah,Kia,Automatic,Saudi,Standard,2019,1.6,43632,False,South Korea,normally used
+Hilux,Dammam,Toyota,Manual,Gulf Arabic,Standard,2016,2.7,172632,False,Japan,overly used
+Yukon,Taef,GMC,Automatic,Saudi,Semi Full,2009,5.3,200000,False,USA,normally used
+Corolla,Riyadh,Toyota,Automatic,Saudi,Standard,2018,1.6,90084,False,Japan,overly used
+FJ,Dammam,Toyota,Automatic,Gulf Arabic,Full,2020,6.0,50000,False,Japan,overly used
+Sentra,Riyadh,Nissan,Automatic,Saudi,Standard,2017,1.6,105272,False,Japan,overly used
+The 6,Riyadh,BMW,Automatic,Saudi,Semi Full,2016,3.0,39000,False,Germany,seldomly used
+C,Dammam,Mercedes,Automatic,Gulf Arabic,Full,2016,2.0,129000,False,Germany,overly used
+Rav4,Riyadh,Toyota,Automatic,Saudi,Standard,2018,2.5,163000,False,Japan,extremely used
+Tucson,Jeddah,Hyundai,Automatic,Saudi,Standard,2017,1.6,17005,False,South Korea,seldomly used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,1.6,173700,False,South Korea,overly used
+LS,Riyadh,Lexus,Automatic,Other,Semi Full,2015,4.6,51000,False,Japan,seldomly used
+Furniture,Riyadh,Toyota,Automatic,Saudi,Standard,2021,2.7,16444,False,Japan,normally used
+Accent,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,1.6,114482,False,South Korea,overly used
+Avalon,Taef,Toyota,Automatic,Saudi,Full,2017,3.5,180000,False,Japan,overly used
+Navara,Dammam,Nissan,Manual,Saudi,Standard,2016,2.4,204000,False,Japan,overly used
+The 7,Makkah,BMW,Automatic,Saudi,Full,2021,2.0,2000,False,Germany,seldomly used
+Tahoe,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2020,5.7,99000,False,USA,extremely used
+Tahoe,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2011,5.3,266000,False,USA,overly used
+Yaris,Jeddah,Toyota,Automatic,Saudi,Standard,2017,1.3,137200,False,Japan,overly used
+CX9,Qassim,Mazda,Automatic,Saudi,Full,2020,2.0,9500,False,Japan,seldomly used
